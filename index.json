@@ -1,10 +1,10 @@
 {
     "author": "Aoyama (omnisch@outlook.com)",
-    "description": "MCPDict, A Phonology Dictionary in CJKV",
-    "downloadUrl": "https://github.com/Omnisch/mcpdict_for_yomitan/releases/download/alpha_1.4/mcpdict_for_yomitan_a1.4.zip",
+    "description": "MCPDict, A Phonology Dictionary in CJKV with Tone Diacritics",
+    "downloadUrl": "https://github.com/Omnisch/mcpdihct_for_yomitan/releases/download/alpha_1.5/mcpdihct_for_yomitan_a1.5.zip",
     "format": 3,
-    "indexUrl": "https://github.com/Omnisch/mcpdict_for_yomitan/releases/latest/download/mcpdict_index.json",
+    "indexUrl": "https://github.com/Omnisch/mcpdihct_for_yomitan/releases/latest/download/mcpdihct_index.json",
     "isUpdatable": true,
-    "revision": "aoyama_mcpdict_alpha1.4",
-    "title": "MCPDict"
+    "revision": "aoyama_mcpdihct_alpha1.5",
+    "title": "MCPDìct"
 }
