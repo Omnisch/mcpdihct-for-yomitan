@@ -34,4 +34,4 @@ For Mandarin (官), Wu (吳), Min (閩), and Yue (粵), the diacritics follow th
 
 ![Sample](images/diacritics_result_of_ngiox.png)
 
-Resources come from [MaigoAkisame/MCPDict](https://github.com/MaigoAkisame/MCPDict).
+Database comes from [MaigoAkisame/MCPDict](https://github.com/MaigoAkisame/MCPDict).
