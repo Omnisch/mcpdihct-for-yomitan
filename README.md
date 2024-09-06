@@ -1,6 +1,6 @@
 # MCPDìct, MCPDict with Diacritics
 
-A Phonology Dictionary for Yomitan, including pronunciations of Han Characters in:
+A Pronunciation Dictionary for Yomitan, including pronunciations of Han Characters in:
 
 - Chinese, Middle
 - Chinese, Madarin

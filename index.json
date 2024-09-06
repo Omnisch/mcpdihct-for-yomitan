@@ -1,6 +1,6 @@
 {
     "author": "Aoyama (omnisch@outlook.com)",
-    "description": "MCPDict, A Phonology Dictionary in CJKV with Tone Diacritics",
+    "description": "MCPDict, A Pronunciation Dictionary in CJKV with Tone Diacritics",
     "downloadUrl": "https://github.com/Omnisch/mcpdihct-for-yomitan/releases/download/alpha_1.5/mcpdihct_for_yomitan_a1.5.zip",
     "format": 3,
     "indexUrl": "https://github.com/Omnisch/mcpdihct-for-yomitan/releases/latest/download/mcpdihct_index.json",
