@@ -1,10 +1,10 @@
 {
-    "author": "Aoyama (omnisch@outlook.com)",
+    "author": "Elliot Chen (omnisch@outlook.com)",
     "description": "MCPDict, A Pronunciation Dictionary in CJKV with Tone Diacritics",
-    "downloadUrl": "https://github.com/Omnisch/mcpdihct-for-yomitan/releases/download/alpha_1.6/mcpdihct_for_yomitan_a1.6.zip",
+    "downloadUrl": "https://github.com/Omnisch/mcpdihct-for-yomitan/releases/download/alpha_1.7/mcpdihct_for_yomitan_a1.7.zip",
     "format": 3,
     "indexUrl": "https://github.com/Omnisch/mcpdihct-for-yomitan/releases/latest/download/mcpdihct_index.json",
     "isUpdatable": true,
-    "revision": "aoyama_mcpdihct_alpha1.6",
+    "revision": "aoyama_mcpdihct_alpha1.7",
     "title": "MCPDìct"
 }
